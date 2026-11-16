@@ -1,0 +1,6 @@
+{
+  "name": "English Tutor",
+  "description": "Interactive English tutor to practice and learn English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
